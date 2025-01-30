@@ -1,4 +1,6 @@
-## 🌍 _SEJAM BEM-VINDOS_ !!🌍
+## 🌍 _SEJAM BEM-VINDOS_ !!🌍                         [![English](https://img.shields.io/badge/lang-English-blue?style=flat-square&logo=google-translate)](README_en.md)
+
+
 
 ### Estou criando esse repositório com intuito de aprender mais sobre os seguintes tópicos.
 
