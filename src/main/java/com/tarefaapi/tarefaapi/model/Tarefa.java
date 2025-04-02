@@ -3,7 +3,7 @@ package com.tarefaapi.tarefaapi.model;
 import jakarta.persistence.*;
 
 @Entity
-@Table(name = "Tarefas")
+@Table(name = "tarefas")
 public class Tarefa {
 
     @Id
